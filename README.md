@@ -1,4 +1,5 @@
 # ProjectCompiler
+Para correr el proyecto basta con instalar en un env los paquetes utilizados en el import (ply.lex, ply.yacc), posicionar en archivo analyzer.py y ejecutar python analyzer.py
 Para proyecto final de esta materia crearemos un pequeño compilador, para un lenguaje con las siguientes funcionalidades:
 
     Operaciones permitidas:
